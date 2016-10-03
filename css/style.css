@@ -145,10 +145,14 @@ table td {
 }
 
 table tr td button {
-	background-color: #ccc;
+	background-color: #2FFF1B;
 	color: black;
 	padding: 15px;
 	cursor: pointer;
+}
+
+button:disabled {
+	background-color: #aaa;
 }
 
 .purchase {

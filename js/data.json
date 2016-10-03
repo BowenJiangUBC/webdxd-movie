@@ -1,0 +1,26 @@
+// {
+// 	"string" :"black",
+// 	"number":100,
+// 	"keys":["a","b"],
+// 	"object": {
+// 		"boolean":true
+// 	}
+// }
+
+[
+	{
+		"name": "Captain America: Cival War",
+		"date": "sep.5 2014",
+		"price": 15
+	},
+	{
+		"name": "Frankenstein",
+		"date": "Oct.2 2014",
+		"price": 10
+	},
+	{
+		"name": "Fast And Furious 6",
+		"date": "March.19 2014",
+		"price": 6
+	}
+]
